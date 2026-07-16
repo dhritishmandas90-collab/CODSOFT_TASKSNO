@@ -1,0 +1,7 @@
+Secure Code Review Checklist
+- Input validation
+- Authentication
+- Password hashing
+- Buffer overflow protection
+- Error handling
+- Logging
